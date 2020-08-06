@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
 <h1 align="center">Hi 👋🏽, I'm Shaon!</h1>
 
 <p align="center">
@@ -20,6 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
 
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
@@ -44,3 +52,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaonDey&show_icons=true" alt="ShaonDey" />
 </p>
+
+
+</body>
+</html>
