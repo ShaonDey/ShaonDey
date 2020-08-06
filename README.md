@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋🏽, I'm Shaon!</h1>
+
+<p align="center">
+<a href="https://linkedin.com/in/ShaonDey" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ShaonDey" height="25" width="25" />
+</a>
+</p>
 
 <!--
 **ShaonDey/ShaonDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
