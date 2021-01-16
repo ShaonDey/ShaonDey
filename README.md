@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ShaonDey" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ShaonDey" height="45" width="45" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ShaonDey" height="45" width="45" />
   </a>
 </p>
 
