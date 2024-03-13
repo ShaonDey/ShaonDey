@@ -6,12 +6,6 @@
 
 <h1 align="center">Hi 👋🏽, I'm Shaon!</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ShaonDey" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ShaonDey" height="45" width="45" />
-  </a>
-</p>
-
 <!--
 **ShaonDey/ShaonDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
