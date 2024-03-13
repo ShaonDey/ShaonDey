@@ -50,6 +50,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ShaonDey&show_icons=true" alt="ShaonDey" />
 </p>
 
+<br />
+
+<p align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaonDey&theme=dark&layout=compact" />
+</p>
 
 </body>
 </html>
